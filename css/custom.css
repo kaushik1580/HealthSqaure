@@ -1149,6 +1149,14 @@ header {
     position: relative;
     right: 10px;
 }
+
+.navbar-brand-2{
+    float: left;
+    height: 50px;
+    /* padding: 15px 15px; */
+    font-size: 18px;
+    line-height: 20px;
+}
 .right-header {
     display: none;
 }
