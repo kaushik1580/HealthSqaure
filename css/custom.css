@@ -289,6 +289,8 @@ header {
     text-shadow: 4px 3px 0 rgba(0,0,0,0.0);
     letter-spacing: -1px;
     font-weight: 400;
+    /**/
+    line-height:1.6;
 }
 body.clinic_version .first-section h2 {
     color: #1f1f1f;
@@ -305,7 +307,7 @@ body.clinic_version .first-section h2 {
 .service-time {
     /*float: left;*/
     width: 300%;
-    min-height: 500px;
+    min-height: 600px;
     margin-top: -285px;
     padding: 50px;
     color: #fff;
@@ -327,8 +329,8 @@ body.clinic_version .first-section h2 {
     color: #fff;
     margin: -5px 0 15px 0;
     padding: 0;
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 35px;
+    font-weight: 400;
     text-transform: none;
 }
 .service-time p {
@@ -444,10 +446,22 @@ body.clinic_version .section {
 .service-widget h3   {
     font-size: 16px;
     color: #ffffff;
-    padding: 12px 0 12px;
+    padding: 12px 10px 12px 10px;
     margin: 0;
     background: #157fda;
+    /*text-align: center;*/
     text-align: center;
+}
+.service-widget h2   {
+    font-size: 20px;
+    color: #ffffff;
+    padding: 12px 10px 12px 10px;
+    margin: 0;
+    background: #157fda;
+    /*text-align: center;*/
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
 }
 hr.hr1 {
     position: relative;

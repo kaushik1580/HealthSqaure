@@ -1065,6 +1065,8 @@ li.social-links a {
     color: #ffffff;
     padding: 20px 0 12px;
     margin: 0;
+    /**/
+    text-justify: inter-word;
 }
 
 .service-widget h3 a,
@@ -2112,7 +2114,7 @@ select.mobile-device {
 .btn-brd {
     -webkit-border-radius: 100px;
     -moz-border-radius: 100px;
-    /*border-radius: 100px;*/
+    border-radius: 100px;
 }
 
 .btn-light {
