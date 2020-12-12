@@ -36,7 +36,7 @@ p {
     padding: 0;
 }
 .navbar-brand img {
-    width: 220px;
+    width: 250px;
 }
 #preloader {
     width: 100%;
@@ -282,6 +282,7 @@ header {
 .typewrite {
     font-size: 60px;
     margin-top: 10px;
+    margin-bottom:10px;
     float: left;
     width: 100%;
     text-align: center;
@@ -304,7 +305,7 @@ body.clinic_version .first-section h2 {
 .service-time {
     /*float: left;*/
     width: 300%;
-    min-height: 350px;
+    min-height: 500px;
     margin-top: -285px;
     padding: 50px;
     color: #fff;
@@ -1145,7 +1146,7 @@ header {
     margin-top: 0;
 }
 .navbar-brand img {
-    width: 165px;
+    /*width: 165px;*/
     position: relative;
     right: 10px;
 }
@@ -1154,6 +1155,7 @@ header {
     float: left;
     height: 50px;
     /* padding: 15px 15px; */
+    padding:15px 15px;
     font-size: 18px;
     line-height: 20px;
 }
