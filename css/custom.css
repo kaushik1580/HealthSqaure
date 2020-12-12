@@ -307,7 +307,7 @@ body.clinic_version .first-section h2 {
 .service-time {
     /*float: left;*/
     width: 300%;
-    min-height: 600px;
+    min-height: 500px;
     margin-top: -285px;
     padding: 50px;
     color: #fff;
@@ -415,6 +415,19 @@ body.clinic_version .first-section h2 {
     padding: 0;
     position: relative;
 }
+
+.text123 h5 {
+    padding-left:2px;
+    font-size: 18px;
+    text-transform: none;
+    font-weight: 400;
+    letter-spacing: -1px;
+    color: #00000;
+    margin: 5px 0;
+    padding: 0;
+    position: relative;
+}
+
 .icon-logo img {
     width: 60px;
 }	
