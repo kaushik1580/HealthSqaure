@@ -316,7 +316,7 @@ body.clinic_version .working-time li:first-child {
 
 body.clinic_version .testimonial h3 {
     font-size: 18px;
-    font-weight: bold;
+    /* font-weight: bold; */
     padding: 0 0 10px;
 }
 
